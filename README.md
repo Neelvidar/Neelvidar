@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,45:12261F,75:0B7A5E,100:2EE6A6&height=140&section=header" width="100%" alt="Emerald Gradient Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,45:2A1210,75:C2410C,100:FB923C&height=140&section=header" width="100%" alt="Sunset Gradient Header"/>
 
 </div>
 
@@ -15,8 +15,7 @@ Making software reliable, usable and ready for the real world, one tested workfl
 <div align="center">
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EE6A6&center=true&vCenter=true&width=700&lines=MCA+Student;Learning+C%2C+C%2B%2B%2C+Java%2C+Python%2C+ReactJS+%26+DSA" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=MCA+Student;Learning+C%2C+C%2B%2B%2C+Java%2C+Python%2C+ReactJS+%26+DSA" alt="Typing SVG" />
 </div>
 
 <a href="https://github.com/Neelvidar">
@@ -108,6 +107,8 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,45:0B7A5E,75:12261F,100:0D0D0D&height=100&section=footer" width="100%" alt="Emerald Gradient Footer"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,45:C2410C,75:2A1210,100:0D0D0D&height=100&section=footer" width="100%" alt="Sunset Gradient Footer"/>
 
 </div>
