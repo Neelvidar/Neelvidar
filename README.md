@@ -8,14 +8,14 @@
 
 # 👋 Hey, I'm Neel
 
-### 💻 MCA Student | 🧑‍💻 Full Stack Web Developer |
+### 💻 MCA Student | 🧑‍💻 Full Stack Web Developer
 
 Making software reliable, usable and ready for the real world, one tested workflow at a time.
 
 <div align="center">
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=MCA+Student;Learning+C%2C+C%2B%2B%2C+Java%2C+Python%2C+ReactJS+%26+DSA" alt="Typing SVG" />
+
 </div>
 
 <a href="https://github.com/Neelvidar">
@@ -58,19 +58,16 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 | Area | Focus |
 |---|---|
-| 📚 Learning | C programming, data structures, core CS fundamentals |
-|  Strengthening my Data Structures and OOP concepts |
-| Building projects in C++ and Java |
-| Learning real-world QA and software implementation at work |
-| ⚛️ Learning **React JS** |
-| 🏭 Learning industrial project techniques: Git workflows, code reviews, documentation, testing practices and the SDLC |
+| 📚 Core fundamentals | C, C++ & Java programming|
+| 🧱 DSA and OOP | Strengthening my Data Structures and OOP concepts |
+| 💻 Projects | Building projects in C++ and Java |
+| ⚛️ Frontend | Learning **React JS** |
+| 🏭 Industry practices | Git workflows, code reviews, documentation, testing practices and the SDLC |
 
----
-*"Every component I build today is a step toward the real-world apps of tomorrow."* ⚛️
 
 ## 🌱 Currently Learning & Improving
 
-- 📘 C programming and core fundamentals (PPA batch at Marvellous Infosystems)
+- 📘 C, C++ & Java programming and core fundamentals
 - 🧱 Data structures and problem solving
 - 🧪 Sharper QA practices and test documentation
 - 🎨 UI/UX principles for better product feedback
@@ -81,6 +78,7 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 - 🏭 Full-stack project with a **React JS** frontend and a Java/Python backend
 - 📄 Built the industry way: proper README, SOPs and Git branching
+- 🏭 Projects using Industrial development Techniques 
 
 ---
 
@@ -101,11 +99,7 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Neelvidar&label=Profile%20Views&color=0B7A5E&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Neelvidar&label=Profile%20Views&color=C2410C&style=for-the-badge" alt="Profile Views"/>
 
 <div align="center">
 
