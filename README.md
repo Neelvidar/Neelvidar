@@ -14,7 +14,7 @@ Making software reliable, usable and ready for the real world, one tested workfl
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=MCA+Student;Learning+C%2C+C%2B%2B%2C+Java%2C+Python%2C+ReactJS+%26+DSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=MCA+Student;Learning+C%2C+C%2B%2B%2C+Java%2C+Python%2C+ReactJS+%26+DSA;Exploring+Spring+Boot%2C+MongoDB+%26+MySQL" alt="Typing SVG" />
 
 </div>
 
@@ -39,7 +39,8 @@ Making software reliable, usable and ready for the real world, one tested workfl
 Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA** at **Imcc, Pune**.
 
 - 📚 Building my core fundamentals in C, C++, Java and data structures.
-- **Also working with:** Python, JavaScript, ReactJS 
+- **Also working with:** Python, JavaScript, ReactJS
+- **Backend & Databases:** Spring Boot, MySQL, MongoDB
 
 
 ### 💻 Programming & Fundamentals
@@ -47,7 +48,9 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,python,react" alt="Programming Languages"/><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,python,react" alt="Programming Languages & Frameworks"/><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/><br>
 
@@ -62,6 +65,7 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 | 🧱 DSA and OOP | Strengthening my Data Structures and OOP concepts |
 | 💻 Projects | Building projects in C++ and Java |
 | ⚛️ Frontend | Learning **React JS** |
+| 🗄️ Backend & Databases | **Spring Boot**, **MySQL** and **MongoDB** |
 | 🏭 Industry practices | Git workflows, code reviews, documentation, testing practices and the SDLC |
 
 
@@ -69,6 +73,7 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 
 - 📘 C, C++ & Java programming and core fundamentals
 - 🧱 Data structures and problem solving
+- 🍃 Spring Boot, MySQL and MongoDB for backend development
 - 🧪 Sharper QA practices and test documentation
 - 🎨 UI/UX principles for better product feedback
 - 🔬 Research: generative AI tools, AI agents 
@@ -76,7 +81,7 @@ Hey there! I'm **Neel**, based in **Pune, Maharashtra**. I'm pursuing my **MCA**
 ---
 ## 🔭 Upcoming Projects
 
-- 🏭 Full-stack project with a **React JS** frontend and a Java/Python backend
+- 🏭 Full-stack project with a **React JS** frontend and a **Spring Boot** backend with **MySQL / MongoDB**
 - 📄 Built the industry way: proper README, SOPs and Git branching
 - 🏭 Projects using Industrial development Techniques 
 
